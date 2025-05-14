@@ -16,7 +16,7 @@
 - About:Blank Cloaking
 - Tab Cloaking
 - Wide collection of apps & games
-- Clean, Easy to use UI
+- Saul Goodman
 - Inspect Element
 - Various Themes
 - Password Protection (Optional)
